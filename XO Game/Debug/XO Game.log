@@ -1,0 +1,3 @@
+﻿  XO Game.cpp
+C:\Users\Electronica\source\repos\XO Game\XO Game\XO Game.cpp(177): warning C4715: 'ticTacToe::Checker': not all control paths return a value
+  XO Game.vcxproj -> C:\Users\Electronica\source\repos\XO Game\Debug\XO Game.exe
